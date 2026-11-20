@@ -1,0 +1,35 @@
+Load plan and road weight check,
+Item,Value
+Container internal length (m),11.584
+Internal width (m),2.294
+Usable height below load line (m),2.394
+Usable volume (m3),65.3
+Max payload (kg),29260
+Tare (kg),4740
+Carton length (m),0.6
+Carton width (m),0.4
+Carton height (m),0.16
+Net kg per carton,20
+Packaging kg per carton,0.9
+Cartons per pallet layer,5
+Layers per pallet,13
+Pallet height (m),0.15
+Pallets per container,20
+Pallet tare (kg),22
+Tractor (t),9
+Chassis (t),4.5
+Generator (t),0.95
+Limit T3-S2 ET/A roads (t),46.5
+Limit T3-S3 ET/A roads (t),54
+Cartons per pallet,
+Pallet stack height (m),
+Cartons per container,
+Net weight (kg),
+Volume of cartons (m3),
+Share of usable volume,
+Share of payload,
+Gross cargo (kg),
+Verified gross mass (kg),
+Truck + container (t),
+Fits 5-axle T3-S2?,
+Fits 6-axle T3-S3?,

@@ -1,0 +1,8 @@
+"PROBOCA Case 2 - Import logistics cost model (one 40-ft reefer, 26 t net, plant to Apodaca)"
+Purpose: compare the logistics route of the seven Brazilian suppliers and test freight and delay scenarios.
+How to use: change only the blue cells with yellow fill in 'Inputs' (and road km in 'Routes') when real quotes arrive. Every other cell is a formula.
+Colors: blue = input; black = formula; green = link to another sheet.
+"Estimates to replace with real quotes: ocean freight, destination charges, export documents, Altamira port moves, Mexican truck, insurance rate, rail distance."
+"Duty: base case assumes 0% (registered importer, vessel anchors before January 1, 2027). 'Scenarios' shows the 75% duty cliff separately."
+Prepared by the Tec de Monterrey team for NI2003B (Group 504). Academic use only; no supplier or carrier was contacted on behalf of PROBOCA.
+"Version: October 8, 2026."

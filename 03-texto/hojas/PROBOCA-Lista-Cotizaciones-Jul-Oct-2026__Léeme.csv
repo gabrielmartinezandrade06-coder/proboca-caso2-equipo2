@@ -1,0 +1,21 @@
+"Proboca · Lista de cotizaciones de proteína para simulación (NI2003B, otoño 2026)",
+Periodo,15 de julio al 13 de octubre de 2026.
+Fuente,"Ofertas reales recibidas por el equipo de Abasto de Proboca (traders, empacadoras y distribuidores). Los nombres de los traders se sustituyeron por un código (Proveedor 01, 02, ...). Las marcas y empacadoras se conservan porque son información de mercado."
+Para qué sirve,"Insumo para que cada equipo simule su decisión de compra: elegir proveedor, comparar orígenes y construir su propio landed cost."
+Cómo leer cada fila,"La columna Precio original es exactamente lo que cotizó el proveedor, en la unidad y la base de entrega indicadas. Las columnas grises (USD/lb, USD/kg, USD/t, MXN/kg, MXN/t) son la misma cifra convertida a otras unidades; en negritas aparece la unidad original."
+Ojo con la base de entrega,"Un precio CFR Altamira, uno en frontera Laredo y uno puesto en planta Proboca NO son comparables directamente. Las conversiones no suman flete, arancel, cupo, agente aduanal, almacenaje ni costo financiero. Ese cálculo es parte del reto."
+Precios en MXN,"Cuando el precio original viene en MXN/kg puesto en planta, la conversión a USD ya trae implícitos los costos que el proveedor incluyó (por ejemplo, Minerva incluye flete 5 MXN/kg y cupo 6.5 MXN/kg). Está indicado en Notas."
+Tipo de cambio,"Si la cotización trae paridad, se usa esa (Fuente TC = Cotización). Si no, se usa la paridad de referencia del periodo de la hoja Parámetros. Pueden cambiarla para sensibilizar."
+Referencia UB,"Serie de cierres Urner Barry para pavo y pollo en el mismo periodo. Sirve para ubicar cada oferta contra el mercado (por ejemplo, ofertas a UB + 0.05)."
+Datos con supuesto,Algunas filas tienen base u origen no especificado por el proveedor; está marcado como No especificado o (supuesto). Parte del trabajo de un comprador es validar esos datos antes de cerrar.
+Vigencia,Son precios históricos de referencia. No son ofertas vigentes ni compromisos de compra o venta de Proboca.
+Confidencialidad,Uso exclusivo académico dentro del curso. No compartir fuera del grupo.
+Hoja,Número de cotizaciones
+Pavo,37
+Pollo,55
+Cerdo,69
+Res,70
+Total,231
+Leyenda de colores,
+Texto azul,Dato de entrada (precio o paridad); se puede modificar.
+Celda gris,Fórmula de conversión; no se edita.

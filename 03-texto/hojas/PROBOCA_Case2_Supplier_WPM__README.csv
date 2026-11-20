@@ -1,0 +1,14 @@
+Supplier Selection WPM - PROBOCA Case 2 (frozen boneless skinless chicken breast from Brazil)
+"Weighted Point Method matrix, RFQ log, quotation summary, market benchmark and SENASICA plant list. Version of October 6, 2026."
+"STATUS: provisional. No supplier has answered the RFQ yet. The 8 criteria that depend on a quotation (43% of the weight) are held at a neutral 3 for every supplier, so today's ranking comes only from public evidence."
+How to use
+"1. Send the RFQs and log them in 'RFQ_Log' (date sent, screenshot file name, response date)."
+"2. Type each written quotation into 'Quotes'. The sheet converts to US cents per lb, compares the FOB price with the Comex Stat 2026 benchmark, suggests a C1 score and checks the plant SIF against SENASICA's list."
+"3. Replace the yellow provisional scores (value 3) in 'WPM' with the real scores, using the scales in 'Criteria'. Totals, rank and chart update by themselves."
+Colour code
+Blue text = input typed by the team.  Black text = formula.  Green text = link to another sheet.  Yellow fill = cell to fill or update when RFQ answers arrive.
+Scores run from 1 (worst) to 5 (best). Weights are in 'Criteria' and must add up to 100% (check cell at the bottom of 'WPM').
+Sources
+"SENASICA (2026). Sistema de informacion de consulta de plantas autorizadas, Carnicos, Brasil. https://sistemasssl.senasica.gob.mx/PlantaAcreditada/ (consulted Sep 24 and Oct 6, 2026)."
+"MDIC (2026). Comex Stat, Brazilian exports, NCM 0207.14.22, destination Mexico. https://comexstat.mdic.gov.br/ (data updated Oct 6, 2026)."
+"Evidence scores: company websites and reports cited in the manual (Supplier Selection Manual - PROBOCA Case 2, section 1 and Appendix D)."

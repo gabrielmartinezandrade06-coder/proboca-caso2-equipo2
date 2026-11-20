@@ -1,0 +1,12 @@
+Risk register (probability and impact 1-5),,,,,,
+ID,Risk,Probability,Impact,Score,Band,Mitigation
+R1,"Vessel anchors after Dec 31, 2026; duty 0% to 75%",3,5,,,Arrive by Dec 15; confirm registry; 2027 tariff clause; Veracruz fallback
+R2,"Vessel delay, skipped call or rolled container",4,3,,,Book 2-3 weeks ahead; second carrier quote; daily tracking
+R3,Sanitary closure of the plant's state,2,5,,,Two suppliers in different states and ports; force-majeure substitution clause
+R4,Reefer or generator failure,2,4,,,Pre-trip inspection; logger; remote monitoring; 24-hour breakdown cover
+R5,"Certificate or label mismatch, sampling hold",3,3,,,Broker reviews drafts before sailing; experienced broker; Mexico-experienced supplier first
+R6,Freight rates rise,3,2,,,Fixed-rate contract 6-12 months; two carriers; compare FOB and CFR
+R7,"Brazilian road strike, blockade or landslide",2,3,,,Plants close to port or rail; two buffer days
+R8,Cargo theft Altamira-Apodaca,2,4,,,GPS geofence; daytime driving; theft cover
+R9,No reefer equipment or vessel space,3,3,,,Early booking; two carriers; flexible week
+R10,Port closed by weather,3,2,,,Buffer days; alternative port of loading

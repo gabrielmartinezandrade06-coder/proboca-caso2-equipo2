@@ -1,0 +1,10 @@
+"Logistics cost per container by supplier (USD), base case",,,,,,,,,,,,,,,,,,,,,
+Supplier,Plant,SIF,Port,Road km to port,Rail feeder km,Brazil haulage,Origin port and export,Ocean freight,Insurance,Customs value,Mexican customs,Mexican port,Mexican truck,Lead time (days),Carrying cost,Total logistics cost,US cents per kg,Gap vs best,Gap per t,CO2e road route (kg),CO2e rail route (kg)
+Lar Cooperativa,"Cascavel, PR",1672,Paranaguá,598,10,,,,,,,,,,,,,,,,
+Aurora Coop,"Xaxim, SC",601,Itajaí,553,,,,,,,,,,,,,,,,,
+Seara (JBS),"Lapa, PR",530,Paranaguá,151,,,,,,,,,,,,,,,,,
+Copacol,"Cafelândia, PR",516,Paranaguá,641,56,,,,,,,,,,,,,,,,
+C.Vale,"Palotina, PR",3300,Paranaguá,694,98,,,,,,,,,,,,,,,,
+GT Foods,"Terra Boa, PR",3773,Paranaguá,599,,,,,,,,,,,,,,,,,
+MBRF (BRF),"Concórdia, SC",1,Itajaí,516,,,,,,,,,,,,,,,,,
+"Notes: sea distance 10,627 km from Paranagua and 10,639 km from Itajai (searoute). Duty assumed 0% in the base case.",,,,,,,,,,,,,,,,,,,,,

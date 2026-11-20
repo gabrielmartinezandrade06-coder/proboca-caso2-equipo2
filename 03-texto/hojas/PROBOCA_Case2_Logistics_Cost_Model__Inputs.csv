@@ -1,0 +1,34 @@
+Inputs and assumptions,,,,
+Input,Value,Unit,Type,Source
+Exchange rate MXN per USD,18.1343,MXN/USD,Fact,"DOF indicators, Oct 6, 2026"
+Exchange rate BRL per USD,4.9698,BRL/USD,Fact,"PTAX, Oct 6, 2026 (Noticias Agricolas)"
+Annual cost of capital (TIIE 28 days),0.067358,% per year,Fact used as proxy,"DOF indicators, Oct 6, 2026"
+Net cargo per container,26,t,Design,RFQ: 25-27 t per 40-ft reefer
+FOB price,2487,USD/t,Fact,"Comex Stat, NCM 0207.14.22 to Mexico, Sep 2026"
+"Brazil haulage floor per km (containerized, 6 axles)",7.4986,BRL/km,Official floor,ANTT Portaria SUROC 22/2026
+Brazil haulage floor per trip (load/unload),662.01,BRL/trip,Official floor,ANTT Portaria SUROC 22/2026
+Road legs paid (empty positioning + loaded),2,legs,Assumption,Team
+Origin terminal charges,2557.09,BRL,Fact,"TCP 2026 tariff: handling, weighing, scanner, 3 days reefer power"
+Reefer power per day at origin terminal,389.78,BRL/day,Fact,TCP 2026 tariff item 1.11.1
+Export clearance and documents,1500,BRL,Estimate,Team
+Ocean freight per 40-ft reefer,4500,USD,Estimate,"Replace with carrier quote (range 3,500-6,000)"
+Carrier destination charges at Altamira,450,USD,Estimate,Replace with carrier quote
+Insurance rate on 110% of (FOB + freight),0.005,%,Estimate,Market range 0.2%-1% (Nextstop Group 2025)
+Customs processing fee (DTA),0.008,% of customs value,Law,Ley Federal de Derechos art. 49
+Prevalidation,350,MXN,Market reference,DTD Express 2026
+Customs broker fee,6000,MXN,Market reference,"DTD Express 2026 (range 3,500-8,000)"
+Import zoosanitary certificate,3356,MXN,Official fee,"LFD art. 86-A, 2026 (Amexfal)"
+"Altamira terminal moves, inspection, reefer power",9000,MXN,Estimate,Team
+Altamira-Apodaca refrigerated truck,35000,MXN,Estimate,"OCL Cargo 2026: 26,400-31,000 dry + ~22% reefer"
+Days at origin port before sailing,3,days,Estimate,Team
+Ocean transit to Altamira,30,days,Fact,Maersk UHA-GULFEX schedule
+Clearance and inspection at Altamira,4,days,Estimate,Team
+Road Altamira-Apodaca,1,days,Estimate,492 km
+Emission factor refrigerated truck,0.11417,kg CO2e/tkm,Fact,DESNZ 2024
+Emission factor container ship,0.01612,kg CO2e/tkm,Fact,DESNZ 2025
+Emission factor rail freight,0.026,kg CO2e/tkm,Fact (UK proxy),ORR 2025
+Gross cargo incl. cartons and pallets,27.61,t,Calculated,"Load plan: 1,300 cartons + 20 pallets"
+Road km Altamira-Apodaca,492,km,Calculated,OSRM
+Rail km Cascavel-Paranagua,700,km,Estimate,Confirm with rail operator
+Duty without the decree,0.75,%,Law,MFN duty on chicken
+Scenario: freight multiplier,1,x,Scenario lever,1.15 or 1.20 in Scenarios sheet

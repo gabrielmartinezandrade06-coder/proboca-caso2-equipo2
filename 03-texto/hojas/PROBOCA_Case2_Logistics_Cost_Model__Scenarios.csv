@@ -1,0 +1,6 @@
+"Scenarios: freight +15%, +20% and one-week delay (USD per container)",,,,,,,,,,,
+Freight increase A,0.15,,,,,,,,,,
+Freight increase B,0.2,,,,,,,,,,
+Delay (days),7,,,,,,,,,,
+Supplier,Base total,Freight legs (base),Total +A,Change +A,Total +B,Change +B,Total with delay,Change with delay,Lead time base,Lead time with delay,Duty if anchoring after Dec 31 (75%)
+Freight legs = Brazilian haulage + ocean freight + Mexican truck. Insurance and DTA are recalculated on the higher ocean freight. Delay = container rolled one week at the origin port (reefer power + carrying cost).,,,,,,,,,,,

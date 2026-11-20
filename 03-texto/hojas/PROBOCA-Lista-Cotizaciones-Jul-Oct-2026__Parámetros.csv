@@ -1,0 +1,12 @@
+Parámetros de conversión,,
+Concepto,Valor,Fuente / nota
+Libras por kilogramo,2.20462,Factor estándar (1 kg = 2.20462 lb)
+Kilogramos por tonelada métrica,1000,"1 t = 1,000 kg"
+Tipo de cambio de referencia por periodo (MXN por USD),,
+Vigente desde,TC MXN/USD,Fuente / nota
+2026-07-15 00:00:00,17.5,Paridad usada por el equipo en cotizaciones de jul y ago
+2026-08-17 00:00:00,17.2,Paridad de la oferta Minerva del 17 ago
+2026-08-24 00:00:00,17,Paridad usada del 24 ago al 20 sep (FIX cerca o debajo de 17.00)
+2026-09-21 00:00:00,17.3,Paridad usada en cotizaciones del 21 y 22 sep
+2026-09-28 00:00:00,17.85,FIX Banxico 28 sep 2026: 17.8413; paridad usada por Comercial el 29 sep
+"Se aplica a las cotizaciones que no traen paridad explícita. Cuando la cotización sí la trae, la hoja usa la paridad del proveedor (columna Fuente TC = Cotización). Los valores en azul son editables.",,

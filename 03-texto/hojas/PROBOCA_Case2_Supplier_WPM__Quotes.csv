@@ -1,0 +1,13 @@
+Summary of written quotations,,,,,,,,,,,,,,,,,,
+Type only figures that appear in a supplier's written quotation. Black columns calculate by themselves.,,,,,,,,,,,,,,,,,,
+Supplier,Quote no.,Quote date,FOB port,Validity (days),FOB (US$/t),CFR Altamira (US$/t),FOB (US cents/lb),CFR Altamira (US cents/lb),FOB vs 2026 benchmark,Suggested C1 score,Lead time PO to sailing (days),Minimum order (containers),Payment terms,Monthly volume committed (containers),Shipping plant SIF,SIF on SENASICA list?,Accepts 2027 duty clause? (Y/N),Notes
+EXAMPLE - format only,Q-0000,2026-10-10 00:00:00,Paranagua,15,2450,2650,,,,,21,1,"30% advance, 70% CAD",4,1672,,Y,Not a real quote
+Lar Cooperativa,,,,,,,,,,,,,,,,,,
+Aurora Coop,,,,,,,,,,,,,,,,,,
+Seara (JBS),,,,,,,,,,,,,,,,,,
+Copacol,,,,,,,,,,,,,,,,,,
+C.Vale,,,,,,,,,,,,,,,,,,
+GT Foods,,,,,,,,,,,,,,,,,,
+MBRF (BRF),,,,,,,,,,,,,,,,,,
+Benchmark: Comex Stat 2026 average FOB (US$/t),,,,,,,,,,,,,,,,,,
+Benchmark in US cents/lb,,,,,,,,,,,,,,,,,,
