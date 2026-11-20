@@ -28,6 +28,8 @@ Profesoras: Dra. Ana Salas y Prof. Lourdes Godines. Socio formador: PROBOCA (con
 
 ## Cómo usarlo con Claude y con ChatGPT
 
+**Guía completa, paso a paso: [`GUIA.md`](GUIA.md).**
+
 1. **Acepta la invitación** al repositorio que te llega por correo de GitHub.
 2. **Claude (claude.ai):** en un Proyecto, agrega conocimiento desde GitHub y elige este repositorio. Claude lee `CLAUDE.md` y sabe de qué trata el caso.
 3. **ChatGPT:** conecta GitHub en Configuración, en la sección de Apps o Conectores, y dale acceso a este repositorio. ChatGPT lee `AGENTS.md`, que trae las mismas instrucciones.
