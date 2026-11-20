@@ -37,7 +37,7 @@ Profesoras: Dra. Ana Salas y Prof. Lourdes Godines. Socio formador: PROBOCA (con
 
 ## Reglas del equipo
 
-- **Es privado.** La lista de cotizaciones de PROBOCA es "uso exclusivo académico dentro del curso; no compartir fuera del grupo". No la subas a ningún otro lado.
+- **Es público** desde el 20 nov 2026, con permiso de PROBOCA. Cualquiera puede verlo, pero solo el equipo puede editarlo. La lista de cotizaciones sigue siendo para uso académico: no la uses para otra cosa.
 - **Antes de pegar datos de PROBOCA en ChatGPT**, apaga en tu cuenta la opción de usar tus conversaciones para entrenar.
 - **No contactamos proveedores a nombre de PROBOCA** ni damos a entender que habrá orden de compra (regla del kick-off). Las preguntas van por las profesoras.
 - **Todo dato lleva su fuente.** Si algo no está confirmado, se escribe que falta, no se inventa.

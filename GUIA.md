@@ -2,7 +2,7 @@
 
 Cómo entrar al repositorio del Caso 2 de PROBOCA y trabajar en él desde GitHub, ChatGPT y Claude.
 
-**Repositorio:** https://github.com/gabrielmartinezandrade06-coder/proboca-caso2-equipo2 (privado: solo entra el equipo)
+**Repositorio:** https://github.com/gabrielmartinezandrade06-coder/proboca-caso2-equipo2 (público: cualquiera lo ve; solo el equipo lo edita)
 
 ## Por qué trabajar todos en un mismo repositorio
 
@@ -36,7 +36,7 @@ Cómo entrar al repositorio del Caso 2 de PROBOCA y trabajar en él desde GitHub
 
 **Antes de pegar datos de PROBOCA en ChatGPT:** en Configuración, en Controles de datos, apaga la opción que usa tus conversaciones para mejorar el modelo.
 
-**Si no te aparece el repositorio:** avísale a Gabriel. Como el repositorio está en su cuenta, él tiene que darle acceso al conector de ChatGPT una vez desde la suya.
+**Si no te aparece el repositorio:** como ya es público, puedes pegarle a ChatGPT el enlace del repositorio. Para que ChatGPT pueda editarlo con tu cuenta, Gabriel tiene que darle acceso al conector desde la suya.
 
 **Si no te aparece GitHub en ChatGPT** (puede depender de tu plan): crea un Proyecto en ChatGPT y sube los archivos de `04-notas/` y `03-texto/`. Funciona, pero no se actualiza solo.
 
@@ -73,7 +73,7 @@ Cómo entrar al repositorio del Caso 2 de PROBOCA y trabajar en él desde GitHub
 
 ## Paso 5. Reglas del equipo
 
-- **El repositorio es privado y así se queda.** La lista de cotizaciones de PROBOCA es "uso exclusivo académico dentro del curso; no compartir fuera del grupo". No la subas a otro lado ni la pegues en chats públicos.
+- **El repositorio es público** desde el 20 nov 2026, con permiso de PROBOCA: cualquiera lo ve, pero solo el equipo lo edita. La lista de cotizaciones sigue siendo de uso académico: no la uses para otra cosa.
 - **No contactamos proveedores a nombre de PROBOCA.** Las preguntas a PROBOCA van por las profesoras.
 - **Todo dato lleva su fuente y su fecha.** Si algo no está confirmado, se escribe que falta.
 - **Lo nuevo se sube el mismo día**, y se anota en `04-notas/` qué cambió.
