@@ -1,4 +1,4 @@
-# Hechos clave del Caso 2 (al 17 de noviembre de 2026)
+# Hechos clave del Caso 2 (al 25 de noviembre de 2026)
 
 > Lo que hoy es cierto, con su fuente. Si algo de aquí contradice un entregable viejo, manda esta nota. Cada vez que algo cambie, se corrige aquí y se anota la fecha.
 
@@ -28,6 +28,8 @@
 - **19 oct 2026:** México suspendió todas las importaciones avícolas de Brasil por Newcastle (SADER-SENASICA).
 - **30 oct 2026:** reabrió todos los estados **menos Santa Catarina**. Fuente: Mundo Agropecuario, 31 oct 2026 (comunicado del MAPA).
 - **Consecuencia:** BRF (Concórdia, SC) y Aurora (Xaxim, SC) hoy no pueden mandar. Seara (Lapa, Paraná, SIF 530) y Lar (Cascavel, Paraná) sí.
+- **25 nov 2026:** la lista de SENASICA trae 58 plantas de pollo de Brasil autorizadas (vigentes hasta 2028), 11 en Santa Catarina. Fuera de SC hay 23 empresas; están en `05-compra/contactos.csv`. Aurora y BRF sí pueden vender desde sus plantas de Paraná, Rio Grande do Sul, Goiás o Minas Gerais.
+- **Tiempo:** para fondear en Altamira el 31 dic hay que zarpar más o menos el 28 nov al 1 dic. Lo que se compre ahora casi seguro llega en enero (ver `05-compra/preparacion-negociacion.md`).
 
 ## 5. Precios CFR Altamira (lista de cotizaciones de PROBOCA)
 

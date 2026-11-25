@@ -1,0 +1,44 @@
+id,responsable,prioridad,empresa,contacto,cargo,correo,telefono_o_whatsapp,plantas_autorizadas_fuera_de_SC,fuente,estado,fecha_primer_contacto,respuesta,precio_CFR_Altamira_USD_kg,fecha_embarque_ofrecida,notas
+1,Gabriel,1,Seara (JBS),Marcelo Siegmann,Export Director,marcelo.siegmann@seara.com.br,+55 11 98818-1413,"PR (3), MS, SP; JBS Aves RS",Directorio Brazilian Chicken (ABPA),pendiente,,,,,
+2,Gabriel,1,Seara (JBS),Seara International (WhatsApp oficial),Ventas internacionales,,+55 11 4950-8096,"PR (3), MS, SP",searainternational.com,pendiente,,,,,
+3,Gabriel,1,Lar Cooperativa,Barbara Teixeira,Exportación Asia y Américas,barbara.teixeira@lar.ind.br,,"PR (4), RS",lar.ind.br (página de exportación),pendiente,,,,,Ella atiende América: escribirle primero
+4,Gabriel,1,Lar Cooperativa,Giovana Rosas,Gerencia de exportación,giovanarosas@lar.ind.br,,"PR (4), RS",lar.ind.br (página de exportación),pendiente,,,,,Copiarla en el correo a Barbara
+5,Gabriel,1,Lar Cooperativa,Caroline Fredo,Export Coordinator,caroline.fredo@lar.ind.br,+55 45 99138-4564,"PR (4), RS",Directorio Brazilian Chicken (ABPA),pendiente,,,,,Solo si Barbara no contesta en 24 h
+6,Gabriel,2,Coopavel,Willian Almeida Polido,Trader,sales.chicken@coopavel.com.br,+55 45 3218-5023,PR (Cascavel),Directorio Brazilian Chicken (ABPA),pendiente,,,,,
+7,Gabriel,3,Zanchetta Alimentos,Magali Rovarotto,Export Manager,magali.rovarotto@zanchetta.com.br,+55 11 99999-9059,SP (Boituva),Directorio Brazilian Chicken (ABPA),pendiente,,,,,
+8,Gabriel,3,Rio Branco Alimentos (Pif Paf),Alexandre Sala,Export Manager,alexandresala@pifpaf.com.br,+55 11 97966-1405,MG,Directorio Brazilian Chicken (ABPA),pendiente,,,,,
+9,Nicole,1,Aurora Coop,Departamento internacional,Exportación,international@auroracoop.com.br,+55 11 2423-2251,"PR (Mandaguari), RS (Tapejara)",Directorio Brazilian Chicken (ABPA),pendiente,,,,,"Ya se le mandó cotización el 20 oct sin respuesta; pedir planta PR o RS, nunca SC"
+10,Nicole,1,Aurora Coop,Conmutador,Central,,+55 11 2423-2201,"PR, RS",auroracoop.com.br,pendiente,,,,,Pedir comercio exterior
+11,Nicole,1,Copacol,Genezio Clemente Junior,Commercial Manager,junior@copacol.com.br,+55 45 99969-5606,PR (Cafelândia y Ubiratã),Directorio Brazilian Chicken (ABPA),pendiente,,,,,
+12,Nicole,1,Copacol,Ventas corporativas,Ventas,vendascorporativas2@copacol.com.br,,PR,Investigación del equipo (oct 2026),pendiente,,,,,Copiar sac@copacol.com.br
+13,Nicole,1,Copacol,SAC,Atención a clientes,sac@copacol.com.br,(45) 99916-1011,PR,copacol.com.br/contato,pendiente,,,,,
+14,Nicole,2,Somave,Carlos Eduardo Geminiano,Export Manager,export@somave.com.br,+55 44 99155-6042,PR (Cidade Gaúcha),Directorio Brazilian Chicken (ABPA),pendiente,,,,,
+15,Nicole,2,Somave,Contacto general,Central,contato@somave.com.br,(44) 3675-1014,PR,somave.com.br,pendiente,,,,,
+16,Nicole,3,Avivar Alimentos (Costa Foods),Wilson Bispo,Foreign Trade Manager,wilson.bispo@costafoodsbrasil.com,+55 37 99964-9062,MG,Directorio Brazilian Chicken (ABPA),pendiente,,,,,
+17,Ivana,1,MBRF (BRF),Andre Taffarello,Executive Director,International.Market@brf.com,0800 702 3311 (desde Brasil),"GO (3), MG, PR, RS",Directorio Brazilian Chicken (ABPA),pendiente,,,,,Pedir planta de GO o PR; nunca Concórdia o Capinzal (SC)
+18,Ivana,1,C.Vale,Tiago Alves de Souza,Sales Supervisor,marketingalimentos@cvale.com.br,+55 44 3649-7015,PR (Palotina),Directorio Brazilian Chicken (ABPA),pendiente,,,,,C.Vale ya exporta a México
+19,Ivana,1,C.Vale,Conmutador,Central,,+55 44 3649-8181,PR,cvale.com.br (exportación),pendiente,,,,,Pedir comercio exterior
+20,Ivana,2,Vibra Foods,Fernando Altenhofen,Export Manager,sales@vibra.com.br,+55 51 3883-2100,"PR (2), MG",Directorio Brazilian Chicken (ABPA),pendiente,,,,,
+21,Ivana,2,Vibra Foods,Atención a clientes,CRC,crc@vibra.com.br,0800 724 4949 (desde Brasil),"PR, MG",vibra.com.br,pendiente,,,,,Solo si sales@ no contesta
+22,Ivana,2,Bello Alimentos,Thais Carnevalli,Commercial Coordinator,export1@bellofoods.com.br,+55 45 99115-0992,MS (2 plantas),Directorio Brazilian Chicken (ABPA),pendiente,,,,,
+23,Ivana,2,Bello Alimentos,Conmutador,Central,,(67) 3476-3400,MS,belloalimentos.com.br,pendiente,,,,,
+24,Ivana,3,Rivelli Alimentos,Marcelo Assunção de Oliveira,Commercial Director,marcelo@rivelli.ind.br,+55 32 3339-0155,MG (Barbacena),Directorio Brazilian Chicken (ABPA),pendiente,,,,,
+25,Ivana,3,Rivelli Alimentos,Contacto general,Central,rivelli@rivelli.ind.br,(32) 3339-0155,MG,rivelli.ind.br,pendiente,,,,,
+26,Jade,1,GT Foods (marca Canção),Kendi Leal Okumura,Export Manager,gean.romancini@gtf.com.br,+55 44 99179-8304,PR (Maringá; Paraíso do Norte; Terra Boa),Directorio Brazilian Chicken (ABPA),pendiente,,,,,"El correo publicado es de Gean Romancini; dirigir a Kendi y pedir que lo reenvíen"
+27,Jade,2,São Salvador Alimentos (SSA),Mariana Guimarães,Sales Executive,mariana.guimaraes@ssa-br.com,+55 62 99919-3212,GO (2 plantas),Directorio Brazilian Chicken (ABPA),pendiente,,,,,
+28,Jade,2,São Salvador Alimentos (SSA),Conmutador,Central,,+55 62 3375-7000,GO,ssa-br.com,pendiente,,,,,
+29,Jade,2,Agrosul,Vitor Hermann,Export Manager,vitor.herrmann@agrosul.com.br,+55 51 99614-0663,RS,Directorio Brazilian Chicken (ABPA),pendiente,,,,,
+30,Jade,2,Agrosul,Exportación,Exportación,export@agrosul.com.br,,RS,agrosul.com.br/contato,pendiente,,,,,
+31,Jade,2,Agrosul,Comercial,Ventas,comercial@agrosul.com.br,,RS,agrosul.com.br/contato,pendiente,,,,,
+32,Jade,3,Nutriza (Friato),Paulinho Hoff,Export Manager,ph@friato.com.br,+55 61 98123-8488,GO (Pires do Rio),Directorio Brazilian Chicken (ABPA),pendiente,,,,,
+33,Jade,3,Nutriza (Friato),Comunicación,Central,comunicacao@friato.com.br,+55 64 3461-1900,GO,friato.com.br,pendiente,,,,,
+34,Lorenzza,1,Jaguafrangos (Grupo BTZ),Thiago Costa,Commercial and Industrial Manager,marketing@grupobtz.com.br,+55 43 3272-8000,"PR (Jaguapitã), GO",Directorio Brazilian Chicken (ABPA),pendiente,,,,,Pedir planta PR o GO; nunca Ipuaçu (SC)
+35,Lorenzza,1,Jaguafrangos (Grupo BTZ),SAC,Atención a clientes,sac@grupobtz.com.br,+55 43 3272-8000,"PR, GO",grupobtz.com.br/contato,pendiente,,,,,
+36,Lorenzza,2,Coroaves (Frango Maringá),Dayane Dotto,Export Manager,exportacao@coroaves.com.br,+55 47 99155-5657,PR (Maringá),Directorio Brazilian Chicken (ABPA),pendiente,,,,,
+37,Lorenzza,2,Coroaves (Frango Maringá),Conmutador,Central,,(44) 3218-9000,PR,frangomaringa.com.br,pendiente,,,,,
+38,Lorenzza,2,Coasul,Luiz Augusto Balzan Walter,Export Assistant,luiz.augusto@coasul.com.br,+55 46 99987-9871,PR (São João),Directorio Brazilian Chicken (ABPA),pendiente,,,,,
+39,Lorenzza,2,Coasul,Conmutador,Central,,(46) 3533-8100,PR,coasul.com.br,pendiente,,,,,
+40,Lorenzza,2,Minuano,Exportación,Exportación,export2@minuano.com.br,+55 51 3714-9400,RS (Lajeado),minuano.com.br,pendiente,,,,,
+41,Lorenzza,2,Minuano,Comercial,Ventas,comercialmi@minuano.com.br,+55 51 3714-9400,RS,minuano.com.br,pendiente,,,,,
+42,Lorenzza,3,União Avícola (BFB Foods),Tulio Bomfim,New Business Manager,tulio.bomfim@grupomce.com.br,+55 65 99606-2149,MT (Nova Marilândia),Directorio Brazilian Chicken (ABPA),pendiente,,,,,
+43,Lorenzza,3,União Avícola (BFB Foods),Contacto general,Central,uniaoavicola@uniaoavicola.ind.br,(65) 3313-3900,MT,uniaoavicola.ind.br,pendiente,,,,,

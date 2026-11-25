@@ -23,6 +23,9 @@ Profesoras: Dra. Ana Salas y Prof. Lourdes Godines. Socio formador: PROBOCA (con
 | `02-datos/` | Los Excel: modelo de costos, matriz de proveedores y la lista de cotizaciones de PROBOCA |
 | `03-texto/` | Los mismos PDF y Excel convertidos a texto y CSV, para que Claude y ChatGPT los puedan leer |
 | `04-notas/` | Los hechos clave al día, las actividades de clase y los pendientes |
+| `05-compra/` | **La compra real:** 43 contactos repartidos entre las cinco, la guía para escribirles y la preparación de la negociación |
+
+**¿Te toca contactar proveedores?** Abre [`05-compra/guia-de-contacto.md`](05-compra/guia-de-contacto.md) y busca tu nombre en [`05-compra/contactos.csv`](05-compra/contactos.csv).
 
 **Empieza por [`04-notas/hechos-clave.md`](04-notas/hechos-clave.md).** Ahí está lo que cambió después de la presentación de medio término (arancel y reapertura de Brasil).
 
