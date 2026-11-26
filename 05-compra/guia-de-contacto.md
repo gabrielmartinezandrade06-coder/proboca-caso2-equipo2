@@ -3,6 +3,7 @@
 > **Meta:** que el **lunes 30 de noviembre** tengamos cotizaciones comparables de varios proveedores y una negociación lista con los dos mejores.
 > **Lista de contactos y reparto:** [`contactos.csv`](contactos.csv). Cada quien tiene sus empresas; cada empresa tiene una sola dueña o dueño para que nadie le escriba dos veces.
 > **Antes de negociar:** lee [`preparacion-negociacion.md`](preparacion-negociacion.md), sobre todo la parte del arancel.
+> **Solicitud de cotización formal para adjuntar al correo:** [`Cotacao-PROBOCA-peito-de-frango-PT.pdf`](Cotacao-PROBOCA-peito-de-frango-PT.pdf) (portugués) o [`RFQ-PROBOCA-chicken-breast-EN.pdf`](RFQ-PROBOCA-chicken-breast-EN.pdf) (inglés). Trae un formulario para que todos contesten lo mismo.
 > **A quién le venden y por qué hoy nos conviene negociar:** [`mercado-y-compradores.md`](mercado-y-compradores.md).
 > **Verificación SENASICA (25 nov):** los 23 proveedores pueden vender desde las plantas listadas en [`verificacion-senasica.md`](verificacion-senasica.md). Solo Santa Catarina está prohibido.
 
@@ -61,7 +62,7 @@
 > - **Produto:** filé de peito de frango, desossado, sem pele, congelado (−18 °C), sem tempero e sem injeção.
 > - **Embalagem:** caixas novas de papelão de 20 kg, **paletizadas** (exigência do SENASICA para inspeção em Altamira; paletes de madeira com tratamento NIMF 15 ou de plástico).
 > - **Volume:** 1 contêiner reefer de 40' (aprox. 26 t) para início, com potencial de até 10 contêineres por mês.
-> - **Incoterm:** preço em USD/kg **CFR Altamira, México**; se possível, também FOB Paranaguá ou Itajaí.
+> - **Incoterm:** preço em USD/kg **CFR Altamira, México**; se possível, também FOB Paranaguá ou outro porto fora de Santa Catarina.
 > - **Planta:** habilitada pelo SENASICA para exportar ao México e **fora de Santa Catarina**. Por favor, informe o SIF e confirme que **as aves não são originárias nem procedentes de Santa Catarina** (requisito sanitário vigente do México, combinação 004-13-1271-BRA-BRA).
 > - **Embarque:** primeira data de saída (ETD) disponível e tempo de trânsito até Altamira.
 > - **Pagamento:** condições propostas (carta de crédito ou outra).
@@ -86,7 +87,7 @@
 > - **Product:** chicken breast fillets, boneless, skinless, frozen (−18 °C), plain, not injected or seasoned.
 > - **Packing:** new 20 kg cartons, **palletized** (SENASICA requirement for inspection at Altamira; ISPM 15 heat-treated wood or plastic pallets).
 > - **Volume:** one 40' reefer (approx. 26 t) to start, with potential for up to 10 containers per month.
-> - **Incoterm:** USD/kg **CFR Altamira, Mexico**; also FOB Paranaguá or Itajaí if possible.
+> - **Incoterm:** USD/kg **CFR Altamira, Mexico**; also FOB Paranaguá or another port outside Santa Catarina if possible.
 > - **Plant:** approved by SENASICA for Mexico and **outside Santa Catarina**. Please state the SIF number and confirm that **the birds do not originate from or pass through Santa Catarina** (current Mexican requirement, combination 004-13-1271-BRA-BRA).
 > - **Shipment:** earliest ETD and transit time to Altamira.
 > - **Payment:** your proposed terms (letter of credit or other).

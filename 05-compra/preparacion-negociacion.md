@@ -29,7 +29,7 @@
 
 ## 3. La cuenta del tiempo
 
-- **Para fondear el 31 de diciembre** hay que zarpar de Paranaguá o Itajaí más o menos el **28 de noviembre al 1 de diciembre** (unos 30 días de mar).
+- **Para fondear el 31 de diciembre** hay que zarpar de Paranaguá (Itajaí está en Santa Catarina; mejor evitarlo) más o menos el **28 de noviembre al 1 de diciembre** (unos 30 días de mar).
 - **Con lo que falta** (cotizar, cerrar, reservar barco, certificado sanitario y carga), lo realista es zarpar a mediados de diciembre y **fondear a mediados de enero**.
 - **Qué significa:** sin padrón ni renovación del decreto, ese contenedor paga unos **MXN 1.1 millones de arancel** (unos US$2.25 por kg).
 
