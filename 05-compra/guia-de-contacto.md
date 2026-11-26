@@ -3,6 +3,7 @@
 > **Meta:** que el **lunes 30 de noviembre** tengamos cotizaciones comparables de varios proveedores y una negociación lista con los dos mejores.
 > **Lista de contactos y reparto:** [`contactos.csv`](contactos.csv). Cada quien tiene sus empresas; cada empresa tiene una sola dueña o dueño para que nadie le escriba dos veces.
 > **Antes de negociar:** lee [`preparacion-negociacion.md`](preparacion-negociacion.md), sobre todo la parte del arancel.
+> **A quién le venden y por qué hoy nos conviene negociar:** [`mercado-y-compradores.md`](mercado-y-compradores.md).
 > **Verificación SENASICA (25 nov):** los 23 proveedores pueden vender desde las plantas listadas en [`verificacion-senasica.md`](verificacion-senasica.md). Solo Santa Catarina está prohibido.
 
 ## 0. Antes de mandar nada (5 minutos, una sola vez)
