@@ -44,7 +44,7 @@ Comparación puesto en planta (reporte de aranceles, sección 5.3): Seara 2026 u
 
 ## 6. Logística (diseño de ruta y plan de carga)
 
-- Contenedor refrigerado de 40 pies, **26 t netas, 1,300 cajas de 20 kg, cargadas a piso** (sin tarimas, como pidió Adrián).
+- Contenedor refrigerado de 40 pies, **26 t netas, 1,300 cajas de 20 kg**. **Corrección del 25 nov:** el plan de carga decía cajas a piso, sin tarimas; la hoja de requisitos de SENASICA (004-13-1271-BRA-BRA, requisito 23) exige tarimas o slip sheets, y en Altamira no acepta slip sheets. Para Altamira va **en tarimas** (NIMF 15 o plástico).
 - Puerto de entrada: **Altamira**; camión a Apodaca, 492 km; tiene que ser de 6 ejes (NOM-012).
 - Tránsito marítimo unos 30 días.
 

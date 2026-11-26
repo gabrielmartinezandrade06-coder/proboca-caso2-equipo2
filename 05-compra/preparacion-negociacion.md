@@ -19,7 +19,8 @@
 | IVA | No se paga en la importación (alimento) | Ley del IVA, arts. 2-A y 25, fr. III |
 | DTA | 8 al millar del valor en aduana, aun con arancel exento | Ley Federal de Derechos, art. 49 |
 | Estatus sanitario | Brasil reabrió el 30 oct, menos Santa Catarina | Mundo Agropecuario, 31 oct 2026 |
-| Plantas autorizadas | 58 de pollo, vigentes hasta 2028; 11 en Santa Catarina | SENASICA, plantas acreditadas, consulta del 25 nov 2026 |
+| Plantas autorizadas | 58 de pollo, vigentes hasta 2028; 11 en Santa Catarina. De nuestros 23 proveedores: 46 plantas sirven, 9 no (SC) | SENASICA, plantas acreditadas, consulta del 25 nov 2026 |
+| Requisitos sanitarios | Hoja 004-13-1271-BRA-BRA: prohíbe aves y productos de Santa Catarina; cajas de máximo 40 kg; carga en tarimas (Altamira no acepta slip sheets) | Módulo de requisitos de SENASICA, 25 nov 2026 |
 | Precios CFR Altamira | Lar 2.59 (jul), Aurora 2.75 (jul), BRF 2.75 (ago), Seara 2.95–2.99 (sep), en US$/kg | Lista de cotizaciones de PROBOCA |
 | Precio FOB Brasil | US$2.49/kg (septiembre) | Comex Stat, NCM 0207.14.22, citado en el modelo de costos |
 | Flete marítimo | Unos US$4,500 por contenedor (unos US$0.17/kg) y 30 días de tránsito | Modelo de costos del equipo |

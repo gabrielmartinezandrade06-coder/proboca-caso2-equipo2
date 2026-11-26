@@ -3,6 +3,7 @@
 > **Meta:** que el **lunes 30 de noviembre** tengamos cotizaciones comparables de varios proveedores y una negociación lista con los dos mejores.
 > **Lista de contactos y reparto:** [`contactos.csv`](contactos.csv). Cada quien tiene sus empresas; cada empresa tiene una sola dueña o dueño para que nadie le escriba dos veces.
 > **Antes de negociar:** lee [`preparacion-negociacion.md`](preparacion-negociacion.md), sobre todo la parte del arancel.
+> **Verificación SENASICA (25 nov):** los 23 proveedores pueden vender desde las plantas listadas en [`verificacion-senasica.md`](verificacion-senasica.md). Solo Santa Catarina está prohibido.
 
 ## 0. Antes de mandar nada (5 minutos, una sola vez)
 
@@ -41,7 +42,9 @@
 - **Asunto con "Cotação" y el volumen.** Un contenedor completo y la posibilidad de 10 al mes les dice que vale la pena.
 - **Pon fecha límite clara:** viernes 27, 17:00 de Brasilia.
 - **Un solo correo por empresa**, a la persona de exportación, con copia a la segunda dirección de la misma empresa si la hay.
-- **Pide la planta (SIF) desde la que venderían.** Si dicen una de Santa Catarina, no sirve hoy.
+- **Pide la planta (SIF) desde la que venderían.** Si dicen una de Santa Catarina, no sirve hoy. Compárala con la columna de plantas de tu empresa en `contactos.csv` o en [`verificacion-senasica.md`](verificacion-senasica.md).
+- **Pide que certifiquen que las aves no vienen de Santa Catarina**, sobre todo si la planta está en el suroeste de Paraná, cerca de la frontera.
+- **La carga va en tarimas.** En Altamira SENASICA no acepta cajas sueltas en el piso del contenedor.
 - **No prometas compra ni des fechas de pago.** Pide precio y condiciones; la decisión es de PROBOCA.
 
 ## 4. Plantilla de correo en portugués (la principal)
@@ -55,10 +58,10 @@
 > Solicitamos cotação para:
 >
 > - **Produto:** filé de peito de frango, desossado, sem pele, congelado (−18 °C), sem tempero e sem injeção.
-> - **Embalagem:** caixas de papelão de 20 kg, carregamento a granel (sem paletes).
+> - **Embalagem:** caixas novas de papelão de 20 kg, **paletizadas** (exigência do SENASICA para inspeção em Altamira; paletes de madeira com tratamento NIMF 15 ou de plástico).
 > - **Volume:** 1 contêiner reefer de 40' (aprox. 26 t) para início, com potencial de até 10 contêineres por mês.
 > - **Incoterm:** preço em USD/kg **CFR Altamira, México**; se possível, também FOB Paranaguá ou Itajaí.
-> - **Planta:** habilitada pelo SENASICA para exportar ao México e **fora de Santa Catarina**. Por favor, informe o SIF.
+> - **Planta:** habilitada pelo SENASICA para exportar ao México e **fora de Santa Catarina**. Por favor, informe o SIF e confirme que **as aves não são originárias nem procedentes de Santa Catarina** (requisito sanitário vigente do México, combinação 004-13-1271-BRA-BRA).
 > - **Embarque:** primeira data de saída (ETD) disponível e tempo de trânsito até Altamira.
 > - **Pagamento:** condições propostas (carta de crédito ou outra).
 > - **Documentos:** certificado sanitário do MAPA para o México, fatura comercial, packing list, BL e registro de temperatura.
@@ -80,10 +83,10 @@
 > Please quote:
 >
 > - **Product:** chicken breast fillets, boneless, skinless, frozen (−18 °C), plain, not injected or seasoned.
-> - **Packing:** 20 kg cartons, floor-loaded (no pallets).
+> - **Packing:** new 20 kg cartons, **palletized** (SENASICA requirement for inspection at Altamira; ISPM 15 heat-treated wood or plastic pallets).
 > - **Volume:** one 40' reefer (approx. 26 t) to start, with potential for up to 10 containers per month.
 > - **Incoterm:** USD/kg **CFR Altamira, Mexico**; also FOB Paranaguá or Itajaí if possible.
-> - **Plant:** approved by SENASICA for Mexico and **outside Santa Catarina**. Please state the SIF number.
+> - **Plant:** approved by SENASICA for Mexico and **outside Santa Catarina**. Please state the SIF number and confirm that **the birds do not originate from or pass through Santa Catarina** (current Mexican requirement, combination 004-13-1271-BRA-BRA).
 > - **Shipment:** earliest ETD and transit time to Altamira.
 > - **Payment:** your proposed terms (letter of credit or other).
 > - **Documents:** MAPA health certificate for Mexico, commercial invoice, packing list, B/L and temperature record.
